@@ -2,7 +2,7 @@
 
 Project for the course MALCOM (Machine Learning for Communication).
 
-- Resume of the TadGAN work (see the paper TadGAN - Time series Anomaly Detection using GANs
+- Resume of the TadGAN work (see the paper TadGAN - Time series Anomaly Detection using GANs).
 
 - Retaking of their code in the ipynb file called "TadGAN - Time series Anomaly Detection using GANs".
 
